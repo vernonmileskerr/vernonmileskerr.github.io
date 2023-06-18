@@ -16,7 +16,7 @@ categories:
 - Opinion
 - Social Commentary
 tags:
-- Culture-clash
+- Culture Clash
 - Humanity
 - Individualism
 - Life
