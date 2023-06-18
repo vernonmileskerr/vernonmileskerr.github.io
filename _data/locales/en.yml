@@ -1,0 +1,14 @@
+copyright:
+  # Shown at the bottom of the post
+  license:
+    template: This post is copyright :LICENSE_NAME.
+    name: vernonmileskerr.com
+    link: https://vernonmileskerr.com
+
+  # Displayed in the footer
+  brief: All rights reserved.
+  verbose: >-
+    Unauthorized use and/or duplication of this material without express and written permission from
+    this site’s author and/or owner is strictly prohibited. Excerpts and links may be used, provided
+    that full and clear credit is given to Vernon Miles Kerr and vernonmileskerr.com with
+    appropriate and specific direction to the original content.
