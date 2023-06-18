@@ -7,6 +7,8 @@ link: http://vernonmileskerr.com/about/
 slug: about
 title: About
 wordpress_id: 1
+icon: fas fa-info-circle
+order: 4
 ---
 
 I am an amateur author, literary critic and poet. As a recently retired banker, sales manager and software configuration management engineer, I write about my passions which are: the magic of English rhetoric, speculative science, music, geography  and human institutions.
