@@ -25,6 +25,8 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
+    outputs:
+      origin: ${{ steps.pages.outputs.origin }}
 
     steps:
       - name: Checkout
@@ -62,7 +64,7 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: ${{ steps.pages.outputs.origin }}
+      url: ${{ needs.build.outputs.origin }}
     runs-on: ubuntu-latest
     needs: build
     steps:
