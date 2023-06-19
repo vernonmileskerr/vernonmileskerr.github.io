@@ -18,7 +18,7 @@ for dir in $(find ${jekyll_dir} -type d -depth 1); do
 
   # Run git diff for each relevant directory
   if [[ -d "$root_dir/$rel_dir" ]]; then
-    git diff --no-index --diff-filter=M $jekyll_dir/$rel_dir $rel_dir &2>1 > /dev/null
+    git --no-pager diff --no-index --diff-filter=M $jekyll_dir/$rel_dir $rel_dir || true
   else
     echo "skipped ${rel_dir} (no override)."
   fi
