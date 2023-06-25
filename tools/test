@@ -16,6 +16,8 @@ _config="_config.yml"
 
 _baseurl=""
 
+_profile_arg=""
+
 help() {
   echo "Build and test the site content"
   echo
@@ -61,7 +63,7 @@ main() {
   echo "Site dir: <$SITE_DIR> Base <$_baseurl>"
   # build
   JEKYLL_ENV=production bundle exec jekyll b \
-    -d "$SITE_DIR$_baseurl" -c "$_config"
+    "$_profile_arg" -d "$SITE_DIR$_baseurl" -c "$_config"
 
   # test
   bundle exec htmlproofer "$SITE_DIR" \
@@ -76,6 +78,10 @@ while (($#)); do
   -c | --config)
     _config="$2"
     shift
+    shift
+    ;;
+  -p | --profile)
+    _profile_arg="--profile"
     shift
     ;;
   -h | --help)
