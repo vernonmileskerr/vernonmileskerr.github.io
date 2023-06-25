@@ -25,7 +25,7 @@ module Jekyll
   class VmkImageTag < Liquid::Tag
     GITHUB_IMG_ROOT =
       "https://raw.githubusercontent.com/vernonmileskerr/" +
-      "vernonmileskerr.github.io/main/assets/vmk_img/"
+      "vernonmileskerr.github.io/main/_vmk_img/"
     @markup = nil
 
     def initialize(tag_name, markup, tokens)
@@ -45,11 +45,13 @@ module Jekyll
 
       # If base url includes github.io, then we are on GitHub Pages and should use the raw
       # url.
-      if context.registers[:site].config['baseurl'].include? 'github.io'
+      if Jekyll.env == "production"
         img_src = "#{GITHUB_IMG_ROOT}/#{filename}"
       else
         img_src = "#{context.registers[:site].config['baseurl']}/assets/vmk_img/#{filename}"
       end
+      #remove any double slashes
+      img_src.gsub!(%r{/{2,}}, '/')
       # return the img tag
       "<img src=\"#{img_src}\"/>"
     end
@@ -73,7 +75,7 @@ module Jekyll
 
   class RsyncImageGenerator < Generator
     def generate(site)
-      if site.config['baseurl'].include? 'github.io'
+      if Jekyll.env == "production"
         return
       end
       system('mkdir -p _site/assets/vmk_img');
