@@ -191,6 +191,7 @@ exclude:
   - rollup.config.js
   - node_modules
   - package*.json
+  - assets/vmk_img # see `vmk-images.rb in _plugins`
 
 jekyll-archives:
   enabled: [categories, tags]
