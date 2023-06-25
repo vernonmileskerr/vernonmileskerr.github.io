@@ -18,12 +18,7 @@ tags:
 - Vernon Miles Kerr
 ---
 
-
-![](https://vernonmileskerr.files.wordpress.com/2023/06/screenshot-2023-06-04-at-5.00.41-am.png?w=1024)
-
-
-
-
+{% vmk_img 2023/06/screenshot-2023-06-04-at-5.00.41-am.png %}
 
 ## Are You God-fearing?
 

@@ -191,7 +191,8 @@ exclude:
   - rollup.config.js
   - node_modules
   - package*.json
-  - assets/vmk_img # see `vmk-images.rb in _plugins`
+
+keep_files: ["assets/vmk_img"]
 
 jekyll-archives:
   enabled: [categories, tags]

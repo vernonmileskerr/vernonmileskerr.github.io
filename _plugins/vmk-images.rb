@@ -70,12 +70,15 @@ module Jekyll
       parameters.split(/\s+/)[0]
     end
   end
-end
 
-# Register a hoook to symlink the img directory into the site output when it's a local build.
-Jekyll::Hooks.register :site, :post_write do |site|
-  if not site.config['baseurl'].include? 'github.io'
-    FileUtils.ln_sf '../../assets/img', '_site/assets/vmk_img'
+  class RsyncImageGenerator < Generator
+    def generate(site)
+      if site.config['baseurl'].include? 'github.io'
+        return
+      end
+      system('mkdir -p _site/assets/vmk_img');
+      system('rsync --archive --delete _vmk_img/ _site/assets/vmk_img/');
+    end
   end
 end
 
