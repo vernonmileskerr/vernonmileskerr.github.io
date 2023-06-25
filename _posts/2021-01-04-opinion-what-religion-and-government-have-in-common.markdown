@@ -22,15 +22,15 @@ Sometimes a multi-part posting on Twitter turns into a mini essay.   My conclu
 
 
 
-[![](https://vernonmileskerr.files.wordpress.com/2021/01/religionsandgovt_1.png?w=1024)](https://vernonmileskerr.files.wordpress.com/2021/01/religionsandgovt_1.png)
+{% vmk_img 2021/01/religionsandgovt_1.png?w=1024 %}
 
 
 
-[![](https://vernonmileskerr.files.wordpress.com/2021/01/religionsandgovt_2.png?w=1024)](https://vernonmileskerr.files.wordpress.com/2021/01/religionsandgovt_2.png)
+{% vmk_img 2021/01/religionsandgovt_2.png?w=1024 %}
 
 
 
-[![](https://vernonmileskerr.files.wordpress.com/2021/01/religionsandgovt_3.png?w=1024)](https://vernonmileskerr.files.wordpress.com/2021/01/religionsandgovt_3.png)
+{% vmk_img 2021/01/religionsandgovt_3.png?w=1024 %}
 
 
 

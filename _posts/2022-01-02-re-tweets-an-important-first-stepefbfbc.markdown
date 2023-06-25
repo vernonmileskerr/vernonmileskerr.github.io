@@ -28,11 +28,11 @@ tags:
 
 
 
-![](https://vernonmileskerr.files.wordpress.com/2022/01/pexels-photo-1709929.jpeg)Photo by Tim Mossholder on [Pexels.com](https://www.pexels.com/photo/flag-of-the-usa-on-a-pole-1709929/)
+{% vmk_img 2022/01/pexels-photo-1709929.jpeg %}Photo by Tim Mossholder on [Pexels.com](https://www.pexels.com/photo/flag-of-the-usa-on-a-pole-1709929/)
 
 
 
-![](https://vernonmileskerr.files.wordpress.com/2022/01/screen-shot-2022-01-02-at-6.03.06-am.png?w=1024)
+{% vmk_img 2022/01/screen-shot-2022-01-02-at-6.03.06-am.png?w=1024 %})
 
 
 

@@ -17,7 +17,7 @@ tags:
 ---
 
 
-![](https://vernonmileskerr.files.wordpress.com/2023/04/ca_cigarboxl-1.png?w=664)
+{% vmk_img 2023/04/ca_cigarboxl-1.png?w=664 %})
 
 
 

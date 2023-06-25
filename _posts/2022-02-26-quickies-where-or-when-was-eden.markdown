@@ -51,5 +51,5 @@ Introspection, and our pondering our relationship with the stars, makes us human
 
 
 
-![](https://vernonmileskerr.files.wordpress.com/2022/02/pexels-photo-8026842.jpeg)Photo by Chris F on [Pexels.com](https://www.pexels.com/photo/gorilla-in-a-cage-8026842/)
+{% vmk_img 2022/02/pexels-photo-8026842.jpeg %}Photo by Chris F on [Pexels.com](https://www.pexels.com/photo/gorilla-in-a-cage-8026842/)
 

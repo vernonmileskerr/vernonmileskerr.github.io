@@ -40,7 +40,7 @@ tags:
 
 
 
-![](https://vernonmileskerr.files.wordpress.com/2022/03/firstcuppa20220322.png?w=1024)
+{% vmk_img 2022/03/firstcuppa20220322.png?w=1024 %})
 
 
 

@@ -30,7 +30,7 @@ This morning I received an email from Doctor Eduardo Diaz via LinkedIn asking fo
 
 When I received Dr. Diaz's  request to add my comments to the discussion about leadership, I quickly jotted down what immediately came to mind on the subject:
 
-![eduardodiaz](https://vernonmileskerr.files.wordpress.com/2016/09/eduardodiaz1.jpg)
+{% vmk_img 2016/09/eduardodiaz1.jpg %}
 
 Now, given a bit more time to consider the questtion, I thought that a more in-depth analysis might be appropriate—since the answer to that simple question is a key to solving some of the problems facing humanity in this chaotic world today.
 

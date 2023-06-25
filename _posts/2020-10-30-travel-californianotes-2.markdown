@@ -52,7 +52,7 @@ from  one of the world's hottest,  driest and lowest deserts, Death Valley, to (
 
 
 
-[![](https://vernonmileskerr.files.wordpress.com/2020/10/screen-shot-2020-10-30-at-12.55.44-pm.png?w=900)](https://vernonmileskerr.files.wordpress.com/2020/10/screen-shot-2020-10-30-at-12.55.44-pm.png)Mount Whitney 14,505' (4,421 m.)
+{% vmk_img 2020/10/screen-shot-2020-10-30-at-12.55.44-pm.png?w=900 %}
 
 
 

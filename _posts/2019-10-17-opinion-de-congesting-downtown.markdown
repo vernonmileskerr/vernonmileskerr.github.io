@@ -32,7 +32,7 @@ tags:
 
 Current widespread opinion seems to agree that city-centers, while cleaner and less crime-ridden than before, are becoming gentrification-magnets for large corporations, seeking the notoriety and cachet of downtown addresses.  As a consequence, the number of commuter miles is skyrocketing, the amount of real estate for parking cars is increasing exponentially, and affordable housing within city limits is literally, disappearing.  As pointed out recently on Twitter, by Scott Trudeau — referring to an experiment in Michigan called "Edge City" — just moving corporate HQs to the edges of town does not solve the displacement of people to affordable areas, farther and farther out into the hinterlands.
 
-[![](https://vernonmileskerr.files.wordpress.com/2019/10/screen-shot-2019-10-16-at-9.17.19-am.png?w=300)](https://vernonmileskerr.files.wordpress.com/2019/10/screen-shot-2019-10-16-at-9.17.19-am.png)
+{% vmk_img 2019/10/screen-shot-2019-10-16-at-9.17.19-am.png?w=300 %}
 
 Not only do these "super-commutes" contribute to air pollution, especially when they involve miles of stop-and-go traffic, they also contribute to the demise of family life due to increasing time away from home.  One-way commutes of 100 miles and more are common in Silicon Valley. That is a minimum of four hours daily added to a normal eight-hour workday.  I know this from personal experience.  Children are asleep when their parent leaves the house in the wee hours, and often asleep when the parent returns in the evening.
 
@@ -72,7 +72,7 @@ Beyond the light-ag zone are the local, standard agricultural/ranching lands wi
 
 Rough diagram:
 
-[![](https://vernonmileskerr.files.wordpress.com/2019/10/laforet_roughdetails3-1.jpg?w=300)](https://vernonmileskerr.files.wordpress.com/2019/10/laforet_roughdetails3-1.jpg)
+{% vmk_img 2019/10/laforet_roughdetails3-1.jpg?w=300 %}
 
 
 #### Planning
@@ -88,7 +88,7 @@ Rough diagram:
 #### More Detail
 
 
-[![](https://vernonmileskerr.files.wordpress.com/2019/10/laforet_roughdetails-1-e1571256541764.jpg?w=239)](https://vernonmileskerr.files.wordpress.com/2019/10/laforet_roughdetails-1-e1571256541764.jpg)
+{% vmk_img 2019/10/laforet_roughdetails-1-e1571256541764.jpg?w=239 %}
 
 
 #### Location

@@ -77,5 +77,5 @@ END TRANSMISSION.....
 
 
 
-[![](https://vernonmileskerr.files.wordpress.com/2019/10/milky-way-arm-e1596470742145.png?w=512)](https://vernonmileskerr.files.wordpress.com/2019/10/milky-way-arm-e1596470742145.png)
+{% vmk_img 2019/10/milky-way-arm-e1596470742145.png?w=512 %}
 

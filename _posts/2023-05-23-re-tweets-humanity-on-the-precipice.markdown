@@ -21,7 +21,7 @@ tags:
 ---
 
 
-![](https://vernonmileskerr.files.wordpress.com/2023/05/glacierpoint-1.jpeg?w=900)
+{% vmk_img 2023/05/glacierpoint-1.jpeg?w=900 %})
 
 
 

@@ -17,7 +17,7 @@ categories:
 
 
 
-## [![](https://vernonmileskerr.files.wordpress.com/2020/02/screen-shot-2020-02-05-at-8.23.09-am.png?w=300)](https://vernonmileskerr.files.wordpress.com/2020/02/screen-shot-2020-02-05-at-8.23.09-am.png)
+## {% vmk_img 2020/02/screen-shot-2020-02-05-at-8.23.09-am.png?w=300 %}
 
 
 
@@ -44,7 +44,7 @@ Why would God wait for a million or so years of human existence before—relativ
 The Bible says somewhere, "there is a spirit in man."  Somewhere in this mass of matter that comprises a human being, something resonates.  I picture it as something shared by God, that supreme intelligence, but not something that only defines God. But what is the purpose of placing violent humans into this violent planet, in the first place, and then giving them part of God's essence, which only creates inner-conflict and discomfort as we all "try" to be good, "try" to avoid our violent, physical nature?  Could God be trying to make a point, for all beings in this universe and others, that humanity can be perfected, even given the violent incubator in which it was developed?  Is something like the Garden of Eden in our real future as well as in our mythical past?  Is the seed for that buried deep within our psyches? I'm reminded of my poem of a while back, about the crocus, the first flower to stick its head through the snow in spring.
 
 
-#### [![](https://vernonmileskerr.files.wordpress.com/2020/02/screen-shot-2020-02-05-at-8.10.54-am.png?w=300)](https://vernonmileskerr.files.wordpress.com/2020/02/screen-shot-2020-02-05-at-8.10.54-am.png)
+#### {% vmk_img 2020/02/screen-shot-2020-02-05-at-8.10.54-am.png?w=300 %}
 
 
 

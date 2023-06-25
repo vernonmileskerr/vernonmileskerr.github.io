@@ -70,7 +70,7 @@ Introduction to Novel
 
 
 
-![](https://vernonmileskerr.files.wordpress.com/2023/03/screenshot-2023-03-07-at-5.52.08-pm.png?w=658)
+{% vmk_img 2023/03/screenshot-2023-03-07-at-5.52.08-pm.png?w=658 %})
 
 
 

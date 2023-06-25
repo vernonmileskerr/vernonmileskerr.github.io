@@ -23,7 +23,7 @@ tags:
 ---
 
 
-![](https://vernonmileskerr.files.wordpress.com/2023/03/pexels-photo-918778.jpeg)Photo by Zac Frith on [Pexels.com](https://www.pexels.com/photo/white-tealight-candles-lit-during-nighttime-918778/)
+{% vmk_img 2023/03/pexels-photo-918778.jpeg %}Photo by Zac Frith on [Pexels.com](https://www.pexels.com/photo/white-tealight-candles-lit-during-nighttime-918778/)
 
 
 

@@ -60,7 +60,7 @@ and today he Tweeted this reply:
 
 
 
-![](https://vernonmileskerr.files.wordpress.com/2022/07/screen-shot-2022-07-15-at-7.32.04-am.png?w=1024)
+{% vmk_img 2022/07/screen-shot-2022-07-15-at-7.32.04-am.png?w=1024 %})
 
 
 

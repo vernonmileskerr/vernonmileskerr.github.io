@@ -31,7 +31,7 @@ While it seems I’ve lived my "civilian" life migrating up and down California'
 
 
 
-I've recently called California 99 (formerly U.S. 99) ["California's Main Street](http://vernonmileskerr.com/2020/04/19/nostalgia-california-daydreamin/)," and using a similar metaphor, we can accurately say that U.S.. Interstate 70, hereinafter "70," is "America's Waistband."  Ironically, 70 begins _and_ ends rather unceremoniously. It runs from a "Park-N-Ride" lot, in the virtual backyard of the Social Security Administration campus in Baltimore,  across Pennsylvania's Amish Country, over the Ohio River at Wheeling, West Virginia, and down onto America's Great Plains — piercing through Columbus,  Indianapolis, ![](https://vernonmileskerr.files.wordpress.com/2020/11/thearch.png)
+I've recently called California 99 (formerly U.S. 99) ["California's Main Street](http://vernonmileskerr.com/2020/04/19/nostalgia-california-daydreamin/)," and using a similar metaphor, we can accurately say that U.S.. Interstate 70, hereinafter "70," is "America's Waistband."  Ironically, 70 begins _and_ ends rather unceremoniously. It runs from a "Park-N-Ride" lot, in the virtual backyard of the Social Security Administration campus in Baltimore,  across Pennsylvania's Amish Country, over the Ohio River at Wheeling, West Virginia, and down onto America's Great Plains — piercing through Columbus,  Indianapolis, {% vmk_img 2020/11/thearch.png %}
 
 
 
@@ -69,7 +69,7 @@ My territory was the Western U.S. — I believe it was from the Mississippi Rive
 
 
 
-[![](https://vernonmileskerr.files.wordpress.com/2020/11/mtgarfield-1.jpeg?w=768)](https://vernonmileskerr.files.wordpress.com/2020/11/mtgarfield-1.jpeg)
+{% vmk_img 2020/11/mtgarfield-1.jpeg?w=768 %}
 
 
 
@@ -97,7 +97,7 @@ The next morning we accelerated out onto 70 headed East, toward Glenwood Springs
 
 
 
-![](https://vernonmileskerr.files.wordpress.com/2020/11/debequecanyon-1.jpeg)De Beque Canyon
+{% vmk_img 2020/11/debequecanyon-1.jpeg %}De Beque Canyon
 
 
 
@@ -141,13 +141,13 @@ Right away, we were glad we did. Moving East along Interstate 70, from its origi
 
 
 
-![](https://vernonmileskerr.files.wordpress.com/2020/11/i-70_utah-1.jpeg)
+{% vmk_img 2020/11/i-70_utah-1.jpeg %})
 
 
 
 
 
-It's wider and the canyon walls are not as deep, but — what a way to run the Colorado! (Zipping along at near 80 mph on some gorgeous, 4-lane pavement — banking, rising, dipping, as if you're in an airplane. And, all _upstream_, agains the current of the Colorado at that,.![](https://vernonmileskerr.files.wordpress.com/2020/11/screen-shot-2020-11-20-at-2.26.51-pm.png)
+It's wider and the canyon walls are not as deep, but — what a way to run the Colorado! (Zipping along at near 80 mph on some gorgeous, 4-lane pavement — banking, rising, dipping, as if you're in an airplane. And, all _upstream_, agains the current of the Colorado at that,.{% vmk_img 2020/11/screen-shot-2020-11-20-at-2.26.51-pm.png %})
 
 
 

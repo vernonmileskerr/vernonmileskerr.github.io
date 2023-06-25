@@ -18,7 +18,7 @@ tags:
 ---
 
 
-![](https://vernonmileskerr.files.wordpress.com/2023/03/twiterbirds.png?w=900)
+{% vmk_img 2023/03/twiterbirds.png?w=900 %})
 
 
 

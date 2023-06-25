@@ -65,7 +65,7 @@ Back in 1975, without realizing it, I had buzzed through "Crossing" during a qui
 
 
 
-[![](https://vernonmileskerr.files.wordpress.com/2020/11/chinatown-boston.jpg?w=1024)](https://vernonmileskerr.files.wordpress.com/2020/11/chinatown-boston.jpg)Downtown Crossing Neighborhood of Boston
+{% vmk_img 2020/11/chinatown-boston.jpg?w=1024 %}Downtown Crossing Neighborhood of Boston
 
 
 
@@ -77,7 +77,7 @@ Sure enough, there was the large gateway to a _real_ Chinatown, even by our San 
 
 
 
-[![](https://vernonmileskerr.files.wordpress.com/2020/11/chinagate-boston.jpg?w=986)](https://vernonmileskerr.files.wordpress.com/2020/11/chinagate-boston.jpg)Gateway to Boston Chinatown Essex/Boylston Street, Boston MA
+{% vmk_img 2020/11/chinagate-boston.jpg?w=986 %}Gateway to Boston Chinatown Essex/Boylston Street, Boston MA
 
 
 
@@ -97,7 +97,7 @@ But, not to fear, from there on out, traffic was not an issue.  Boston is a "wa
 
 
 
-[![](https://vernonmileskerr.files.wordpress.com/2020/11/boston-mycommute.jpg?w=1024)](https://vernonmileskerr.files.wordpress.com/2020/11/boston-mycommute.jpg)My Commute for 3 mos.  A one-block walk to work.
+{% vmk_img 2020/11/boston-mycommute.jpg?w=1024 %}My Commute for 3 mos.  A one-block walk to work.
 
 
 
@@ -181,7 +181,7 @@ The plaque doesn't quote that “intelligent” sentence. But as I recall, it wa
 
 
 
-[![](https://vernonmileskerr.files.wordpress.com/2020/12/bellplaque-boston.png?w=957)](https://vernonmileskerr.files.wordpress.com/2020/12/bellplaque-boston.png)Alexander Graham Bell Historical Plaque - Ave. De Lafayette, Boston MA
+{% vmk_img 2020/12/bellplaque-boston.png?w=957 %}Alexander Graham Bell Historical Plaque - Ave. De Lafayette, Boston MA
 
 
 
@@ -193,7 +193,7 @@ During that first weekend, just strolling around Downtown Crossing, I saw additi
 
 
 
-[![](https://vernonmileskerr.files.wordpress.com/2020/12/washingtonstboston2004.png?w=1024)](https://vernonmileskerr.files.wordpress.com/2020/12/washingtonstboston2004.png)Washington Street, Boston 2004
+{% vmk_img 2020/12/washingtonstboston2004.png?w=1024 %}Washington Street, Boston 2004
 
 
 
@@ -213,7 +213,7 @@ I was then drawn across the street from the State House by a small crowd, lookin
 
 
 
-[![](https://vernonmileskerr.files.wordpress.com/2020/12/glory-tryptich.png?w=1024)](https://vernonmileskerr.files.wordpress.com/2020/12/glory-tryptich.png)
+{% vmk_img 2020/12/glory-tryptich.png?w=1024 %}
 
 
 
@@ -265,7 +265,7 @@ All this was achieved in 2004 with no rental car, no taxis—just the T.  Actua
 
 
 
-[![](https://vernonmileskerr.files.wordpress.com/2020/12/bostonfromcambrige04.png?w=1024)](https://vernonmileskerr.files.wordpress.com/2020/12/bostonfromcambrige04.png)Boston From Across the Charles River  2004
+{% vmk_img 2020/12/bostonfromcambrige04.png?w=1024 %}Boston From Across the Charles River  2004
 
 
 
@@ -301,7 +301,7 @@ Being excited, I arrived at the Omni Parker House at 5:00 pm, a half-hour before
 
 
 
-[![](https://vernonmileskerr.files.wordpress.com/2020/12/omniparkerhouse-boston.png?w=1024)](https://vernonmileskerr.files.wordpress.com/2020/12/omniparkerhouse-boston.png)Omni Parker House - Boston, MA
+{% vmk_img 2020/12/omniparkerhouse-boston.png?w=1024 %}Omni Parker House - Boston, MA
 
 
 

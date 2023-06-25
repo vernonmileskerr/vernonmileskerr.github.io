@@ -12,7 +12,7 @@ categories:
 - Poetry
 ---
 
-## [![](https://vernonmileskerr.files.wordpress.com/2016/02/precipice.png?w=300)](https://vernonmileskerr.files.wordpress.com/2016/02/precipice.png)
+## {% vmk_img 2016/02/precipice.png?w=300 %}
 
 
 

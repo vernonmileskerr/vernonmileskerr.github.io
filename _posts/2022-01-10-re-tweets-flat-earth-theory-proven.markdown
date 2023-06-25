@@ -114,5 +114,5 @@ But, (here's where the piece turns serious) thinking of a "flat-earth"—not the
 
 
 
-![](https://vernonmileskerr.files.wordpress.com/2022/01/screen-shot-2022-01-09-at-9.10.33-pm.png?w=1024)[https://en.wikipedia.org/wiki/The_World_Is_Flat](https://en.wikipedia.org/wiki/The_World_Is_Flat)
+{% vmk_img 2022/01/screen-shot-2022-01-09-at-9.10.33-pm.png?w=1024 %})[https://en.wikipedia.org/wiki/The_World_Is_Flat](https://en.wikipedia.org/wiki/The_World_Is_Flat)
 

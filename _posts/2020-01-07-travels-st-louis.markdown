@@ -35,7 +35,7 @@ tags:
 
 
 
-![lacledeslandingstlouis](https://vernonmileskerr.files.wordpress.com/2016/08/lacledeslandingstlouis.jpg?w=200)
+{% vmk_img 2016/08/lacledeslandingstlouis.jpg?w=200 %}
 
 
 

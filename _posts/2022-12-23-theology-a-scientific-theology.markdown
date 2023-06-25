@@ -27,7 +27,7 @@ wordpress_id: 6200
 
 
 
-![](https://vernonmileskerr.files.wordpress.com/2022/12/adamandeve.jpg?w=900)Eve and the Serpent
+{% vmk_img 2022/12/adamandeve.jpg?w=900 %})Eve and the Serpent
 
 
 

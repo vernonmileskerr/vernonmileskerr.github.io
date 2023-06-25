@@ -12,7 +12,7 @@ categories:
 ---
 
 
-![](https://vernonmileskerr.files.wordpress.com/2023/03/pexels-photo-1095601.jpeg)Photo by Jordan Benton on [Pexels.com](https://www.pexels.com/photo/shallow-focus-of-clear-hourglass-1095601/)
+{% vmk_img 2023/03/pexels-photo-1095601.jpeg %}Photo by Jordan Benton on [Pexels.com](https://www.pexels.com/photo/shallow-focus-of-clear-hourglass-1095601/)
 
 
 

@@ -32,7 +32,7 @@ tags:
 
 
 
-## [![](https://vernonmileskerr.files.wordpress.com/2019/05/screen-shot-2019-05-25-at-7.52.04-am.png?w=300)](https://vernonmileskerr.files.wordpress.com/2019/05/screen-shot-2019-05-25-at-7.52.04-am.png)
+## {% vmk_img 2019/05/screen-shot-2019-05-25-at-7.52.04-am.png?w=300 %}
 
 
 

@@ -17,7 +17,7 @@ tags:
 ---
 
 
-![](https://vernonmileskerr.files.wordpress.com/2023/04/pexels-photo-4747132.jpeg)Photo by Jben Beach Art on [Pexels.com](https://www.pexels.com/photo/yin-yang-symbol-on-brown-beach-sand-4747132/)
+{% vmk_img 2023/04/pexels-photo-4747132.jpeg %}Photo by Jben Beach Art on [Pexels.com](https://www.pexels.com/photo/yin-yang-symbol-on-brown-beach-sand-4747132/)
 
 
 

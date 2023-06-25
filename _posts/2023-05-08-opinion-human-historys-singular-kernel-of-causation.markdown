@@ -22,7 +22,7 @@ tags:
 ---
 
 
-![](https://vernonmileskerr.files.wordpress.com/2023/05/pexels-photo-906088.jpeg)Photo by Noelle Otto on [Pexels.com](https://www.pexels.com/photo/human-hand-near-brown-grains-at-daytime-906088/)
+{% vmk_img 2023/05/pexels-photo-906088.jpeg %}Photo by Noelle Otto on [Pexels.com](https://www.pexels.com/photo/human-hand-near-brown-grains-at-daytime-906088/)
 
 
 

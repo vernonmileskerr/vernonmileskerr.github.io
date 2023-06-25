@@ -50,5 +50,5 @@ Well, with one human maniac in possession of nuclear weapons and an army of a hu
 
 
 
-![](https://vernonmileskerr.files.wordpress.com/2022/02/screen-shot-2022-02-19-at-7.44.09-am.png?w=502)
+{% vmk_img 2022/02/screen-shot-2022-02-19-at-7.44.09-am.png?w=502 %})
 

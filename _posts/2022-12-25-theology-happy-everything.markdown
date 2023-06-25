@@ -38,7 +38,7 @@ tags:
 
 
 
-![](https://vernonmileskerr.files.wordpress.com/2022/12/pexels-photo-1448136.jpeg)Photo by John Nail on [Pexels.com](https://www.pexels.com/photo/stonehenge-england-1448136/)
+{% vmk_img 2022/12/pexels-photo-1448136.jpeg %}Photo by John Nail on [Pexels.com](https://www.pexels.com/photo/stonehenge-england-1448136/)
 
 
 

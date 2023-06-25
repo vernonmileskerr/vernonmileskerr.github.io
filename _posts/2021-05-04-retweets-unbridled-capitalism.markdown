@@ -35,7 +35,7 @@ Here's my Twitter essay:
 
 
 
-[![](https://vernonmileskerr.files.wordpress.com/2021/05/retweets-20210504.png?w=1024)](https://vernonmileskerr.files.wordpress.com/2021/05/retweets-20210504.png)
+{% vmk_img 2021/05/retweets-20210504.png?w=1024 %}
 
 
 

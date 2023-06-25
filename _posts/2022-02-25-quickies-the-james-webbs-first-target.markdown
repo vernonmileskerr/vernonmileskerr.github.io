@@ -102,5 +102,5 @@ NASA says,
 
 
 
-![](https://vernonmileskerr.files.wordpress.com/2022/02/screen-shot-2022-02-25-at-6.54.25-am.png?w=728)
+{% vmk_img 2022/02/screen-shot-2022-02-25-at-6.54.25-am.png?w=728 %})
 

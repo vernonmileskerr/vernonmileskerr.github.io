@@ -27,7 +27,7 @@ tags:
 
 ©2010,2016,2020 Vernon Miles Kerr, vernonmileskerr.com
 
-![japan2013_day5_11](https://vernonmileskerr.files.wordpress.com/2016/08/japan2013_day5_11.jpg)She is more than huge, she is blatantly contradictory.
+{% vmk_img 2016/08/japan2013_day5_11.jpg %}She is more than huge, she is blatantly contradictory.
 
 She's American-ish, but Japanesey;
 
@@ -51,13 +51,13 @@ There is no downtown but a dozen downtowns
 
 Strung like beads around the  circling Yamanote Line.
 
-![japan2013_day5_06](https://vernonmileskerr.files.wordpress.com/2016/08/japan2013_day5_06.jpg)We jump on and off like locals, sampling each one.
+{% vmk_img 2016/08/japan2013_day5_06.jpg %}We jump on and off like locals, sampling each one.
 
 Ikebukuro, Ueno,  Okachimachi, Akihabara .
 
 Later the bullet train pulls into Shin-Yokohama,
 
-![bullettrain_kyotoscenes_2013_022-1](https://vernonmileskerr.files.wordpress.com/2016/08/bullettrain_kyotoscenes_2013_022-1.jpg)Long, low and unapologetically futuristic.
+{% vmk_img 2016/08/bullettrain_kyotoscenes_2013_022-1.jpg %}Long, low and unapologetically futuristic.
 
 It's the 6:00 o'clock bound for Kyoto.
 

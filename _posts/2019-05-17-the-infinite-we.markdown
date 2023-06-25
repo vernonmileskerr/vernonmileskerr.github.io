@@ -19,7 +19,7 @@ tags:
 ---
 
 
-![](https://vernonmileskerr.files.wordpress.com/2019/05/screen-shot-2019-05-25-at-7.52.04-am.png)
+{% vmk_img 2019/05/screen-shot-2019-05-25-at-7.52.04-am.png %})
 
 
 
@@ -47,7 +47,7 @@ Living in a black box, as we do, that which happens before birth and after death
 
 
 
-![](https://vernonmileskerr.files.wordpress.com/2019/05/tweet_05162019.png)
+{% vmk_img 2019/05/tweet_05162019.png %})
 
 
 

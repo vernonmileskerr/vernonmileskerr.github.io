@@ -28,7 +28,7 @@ tags:
 
 
 
-![](https://vernonmileskerr.files.wordpress.com/2022/12/pexels-photo-433155.jpeg)Photo by Pixabay on [Pexels.com](https://www.pexels.com/photo/milky-way-galaxy-433155/)
+{% vmk_img 2022/12/pexels-photo-433155.jpeg %}Photo by Pixabay on [Pexels.com](https://www.pexels.com/photo/milky-way-galaxy-433155/)
 
 
 

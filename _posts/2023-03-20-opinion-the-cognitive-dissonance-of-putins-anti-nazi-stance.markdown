@@ -22,7 +22,7 @@ tags:
 ---
 
 
-![](https://vernonmileskerr.files.wordpress.com/2023/03/screenshot-2023-03-20-at-7.39.34-am.png?w=1024)
+{% vmk_img 2023/03/screenshot-2023-03-20-at-7.39.34-am.png?w=1024 %})
 
 
 

@@ -32,7 +32,7 @@ tags:
 
 
 
-![](https://vernonmileskerr.files.wordpress.com/2021/12/screen-shot-2021-12-10-at-8.50.14-am.png?w=1024)
+{% vmk_img 2021/12/screen-shot-2021-12-10-at-8.50.14-am.png?w=1024 %})
 
 
 

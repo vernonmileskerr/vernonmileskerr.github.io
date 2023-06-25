@@ -15,7 +15,7 @@ tags:
 ---
 
 
-![](https://vernonmileskerr.files.wordpress.com/2023/04/pexels-photo-3879495.jpeg)Photo by EYAD Tariq on [Pexels.com](https://www.pexels.com/photo/cappuccino-in-ceramic-mug-3879495/)
+{% vmk_img 2023/04/pexels-photo-3879495.jpeg %}Photo by EYAD Tariq on [Pexels.com](https://www.pexels.com/photo/cappuccino-in-ceramic-mug-3879495/)
 
 
 

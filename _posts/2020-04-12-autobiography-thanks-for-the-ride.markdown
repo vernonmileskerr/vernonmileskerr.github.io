@@ -25,7 +25,7 @@ categories:
 
 
 
-# [![](https://vernonmileskerr.files.wordpress.com/2020/03/fortwitter-2.jpeg?w=300)](https://vernonmileskerr.files.wordpress.com/2020/03/fortwitter-2.jpeg)
+# {% vmk_img 2020/03/fortwitter-2.jpeg?w=300 %}
 
 
 
@@ -151,7 +151,7 @@ So, in my little corner of earthly obscurity, I've bee richly blessed. _Richly b
 
 
 
-![](https://vernonmileskerr.files.wordpress.com/2023/06/screenshot-2023-06-03-at-7.16.15-am.png?w=1024)
+{% vmk_img 2023/06/screenshot-2023-06-03-at-7.16.15-am.png?w=1024 %})
 
 
 
@@ -355,7 +355,7 @@ My mom was Lillian Cathryn Norris. My maternal roots were a mix of Grandpa Arthu
 
 
 
-![](https://vernonmileskerr.files.wordpress.com/2022/09/grandpanorris_ca1920-1.jpeg?w=768)Arthur Livingston Norris circa 1920
+{% vmk_img 2022/09/grandpanorris_ca1920-1.jpeg?w=768 %})Arthur Livingston Norris circa 1920
 
 
 
@@ -367,7 +367,7 @@ Grandma's family were Grigsbys on the paternal side and Schneiders on the matern
 
 
 
-![](https://vernonmileskerr.files.wordpress.com/2022/09/georgegrigsby_circa_1906-1.jpeg?w=768)George Grigsby, Indianapolis,  circa 1906
+{% vmk_img 2022/09/georgegrigsby_circa_1906-1.jpeg?w=768 %})George Grigsby, Indianapolis,  circa 1906
 
 
 

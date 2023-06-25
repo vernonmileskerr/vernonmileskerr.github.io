@@ -19,7 +19,7 @@ tags:
 ---
 
 
-![](https://vernonmileskerr.files.wordpress.com/2022/04/pexels-photo-4388593.jpeg?w=705)Photo by Mohan Reddy on [Pexels.com](https://www.pexels.com/photo/northern-lights-over-mountain-and-forest-4388593/)
+{% vmk_img 2022/04/pexels-photo-4388593.jpeg?w=705 %})Photo by Mohan Reddy on [Pexels.com](https://www.pexels.com/photo/northern-lights-over-mountain-and-forest-4388593/)
 
 
 

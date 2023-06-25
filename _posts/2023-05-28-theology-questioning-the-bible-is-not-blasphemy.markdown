@@ -17,7 +17,7 @@ tags:
 ---
 
 
-![](https://vernonmileskerr.files.wordpress.com/2023/05/pexels-photo-415713.jpeg)Photo by Pixabay on [Pexels.com](https://www.pexels.com/photo/anonymous-religious-hasidim-jews-during-pray-near-western-wall-415713/)
+{% vmk_img 2023/05/pexels-photo-415713.jpeg %}Photo by Pixabay on [Pexels.com](https://www.pexels.com/photo/anonymous-religious-hasidim-jews-during-pray-near-western-wall-415713/)
 
 
 
@@ -46,7 +46,7 @@ This screenshot is from "abideinchrist [dot com]"
 
 
 
-![](https://vernonmileskerr.files.wordpress.com/2023/05/screenshot-2023-05-28-at-8.06.04-am.png?w=1024)
+{% vmk_img 2023/05/screenshot-2023-05-28-at-8.06.04-am.png?w=1024 %})
 
 
 

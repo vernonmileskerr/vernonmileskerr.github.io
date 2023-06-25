@@ -53,7 +53,7 @@ That old Catholic mantra for the confessional booth, "Forgive me Father, for I h
 
 
 
-![](https://vernonmileskerr.files.wordpress.com/2023/03/confessional2.png?w=1024)
+{% vmk_img 2023/03/confessional2.png?w=1024 %})
 
 
 

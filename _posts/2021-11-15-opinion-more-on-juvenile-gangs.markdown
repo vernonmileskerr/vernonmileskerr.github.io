@@ -56,7 +56,7 @@ I think maybe the tweet, below. garnered the highest number of likes and re-twee
 
 
 
-![](https://vernonmileskerr.files.wordpress.com/2021/11/image.png?w=1024)
+{% vmk_img 2021/11/image.png?w=1024 %})
 
 
 

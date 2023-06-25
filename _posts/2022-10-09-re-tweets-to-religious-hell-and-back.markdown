@@ -45,7 +45,7 @@ Our friend Destiney here,  is like a lot of other people—myself included, befo
 
 
 
-![](https://vernonmileskerr.files.wordpress.com/2022/10/screen-shot-2022-10-09-at-6.29.52-am.png?w=1024)
+{% vmk_img 2022/10/screen-shot-2022-10-09-at-6.29.52-am.png?w=1024 %})
 
 
 

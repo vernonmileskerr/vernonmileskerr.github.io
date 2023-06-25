@@ -45,13 +45,13 @@ tags:
 Today, my friend, former writing professor, and sometimes collaborator, Manfred Wolf retweeted:
 
 
-<blockquote>[![](https://vernonmileskerr.files.wordpress.com/2018/01/mw-tattoos.jpeg?w=300)](https://vernonmileskerr.files.wordpress.com/2018/01/mw-tattoos.jpeg)</blockquote>
+<blockquote>{% vmk_img 2018/01/mw-tattoos.jpeg?w=300 %}</blockquote>
 
 
 To which I replied:
 
 
-<blockquote>[![](https://vernonmileskerr.files.wordpress.com/2018/01/vk-tatoos.jpeg?w=300)](https://vernonmileskerr.files.wordpress.com/2018/01/vk-tatoos.jpeg)</blockquote>
+<blockquote>{% vmk_img 2018/01/vk-tatoos.jpeg?w=300 %}</blockquote>
 
 
 This little Twitter-exchange sparked a whole series of other thoughts about fashion itself and the subject of "tattooing the body," including my limited knowledge of its history.  I know that the Ice Man, the 5,000 year-old mummified remains of an Alpine hiker, showed curious line segments tattooed into his preserved skin.  Indigenous people, including the Polynesians and the Ainu of Japan have traditions of tattooing whose origins are shrouded in the past.  One can imagine that the first tattoos could have been accidentally created when a war-painted person was non-fatally injured and the resultant scar retained the paint pigment, giving him permanent, irrefutable proof of his prowess in battle (he survived).

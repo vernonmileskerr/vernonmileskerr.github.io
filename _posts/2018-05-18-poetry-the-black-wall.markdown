@@ -20,7 +20,7 @@ tags:
 
 
 
-# [![](https://vernonmileskerr.files.wordpress.com/2018/05/screen-shot-2020-03-25-at-7.29.33-am.png?w=300)](https://vernonmileskerr.files.wordpress.com/2018/05/screen-shot-2020-03-25-at-7.29.33-am.png)
+# {% vmk_img 2018/05/screen-shot-2020-03-25-at-7.29.33-am.png?w=300 %}
 
 
 

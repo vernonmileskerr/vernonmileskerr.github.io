@@ -20,7 +20,7 @@ wordpress_id: 4049
 
 
 
-# [![](https://vernonmileskerr.files.wordpress.com/2020/06/screen-shot-2020-06-09-at-8.45.54-am.png?w=300)](https://vernonmileskerr.files.wordpress.com/2020/06/screen-shot-2020-06-09-at-8.45.54-am.png)
+# {% vmk_img 2020/06/screen-shot-2020-06-09-at-8.45.54-am.png?w=300 %}
 
 
 

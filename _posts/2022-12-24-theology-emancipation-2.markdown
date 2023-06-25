@@ -57,7 +57,7 @@ tags:
 
 
 
-![](https://vernonmileskerr.files.wordpress.com/2022/02/familyseder.png?w=900)
+{% vmk_img 2022/02/familyseder.png?w=900 %})
 
 
 

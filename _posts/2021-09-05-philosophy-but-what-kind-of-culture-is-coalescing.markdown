@@ -111,7 +111,7 @@ What we need now, is to instill a vision of Utopia in our youth: a possible futu
 
 
 
-[![](https://vernonmileskerr.files.wordpress.com/2021/09/screen-shot-2021-09-05-at-10.06.37-am.png?w=1024)](https://vernonmileskerr.files.wordpress.com/2021/09/screen-shot-2021-09-05-at-10.06.37-am.png)
+{% vmk_img 2021/09/screen-shot-2021-09-05-at-10.06.37-am.png?w=1024 %}
 
 
 

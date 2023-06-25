@@ -94,7 +94,7 @@ Although the Domino Theory is now ridiculed, the wave of “regime-change” war
 
 
 
-[![](https://vernonmileskerr.files.wordpress.com/2021/09/screen-shot-2021-09-19-at-9.50.40-am.png?w=644)](https://vernonmileskerr.files.wordpress.com/2021/09/screen-shot-2021-09-19-at-9.50.40-am.png)
+{% vmk_img 2021/09/screen-shot-2021-09-19-at-9.50.40-am.png?w=644 %}
 
 
 

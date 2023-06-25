@@ -17,7 +17,7 @@ tags:
 
 
 
-To console a fellow Tweeter whose husband, an IT guy, was just laid off, I posted the following.  Later, I began thinking. It took a while for me to ramp-up my success on LinkedIn and Dice.com. There are some pitfalls, for someone coming in, which waste a lot of time, and can  actually extend periods of "being on the bench" as we gig-workers euphemistically — and face-savingly — refer to unemployment. ![](https://vernonmileskerr.files.wordpress.com/2020/10/screen-shot-2020-10-31-at-6.43.41-am.png)  By-the-way, from now on, you don't say you're looking for a job, you say you're seeking your next _engagement_.  Sounds effete, but it's the actual term used by consulting companies like Deloitte, et al.
+To console a fellow Tweeter whose husband, an IT guy, was just laid off, I posted the following.  Later, I began thinking. It took a while for me to ramp-up my success on LinkedIn and Dice.com. There are some pitfalls, for someone coming in, which waste a lot of time, and can  actually extend periods of "being on the bench" as we gig-workers euphemistically — and face-savingly — refer to unemployment. {% vmk_img 2020/10/screen-shot-2020-10-31-at-6.43.41-am.png %})  By-the-way, from now on, you don't say you're looking for a job, you say you're seeking your next _engagement_.  Sounds effete, but it's the actual term used by consulting companies like Deloitte, et al.
 
 
 

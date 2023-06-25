@@ -10,7 +10,7 @@ wordpress_id: 6221
 ---
 
 
-![](https://vernonmileskerr.files.wordpress.com/2022/12/pexels-photo-703016-1.jpeg)Photo by Victor Freitas on [Pexels.com](https://www.pexels.com/photo/10-lb-rogue-weight-plate-near-people-gathered-703016/)
+{% vmk_img 2022/12/pexels-photo-703016-1.jpeg %}Photo by Victor Freitas on [Pexels.com](https://www.pexels.com/photo/10-lb-rogue-weight-plate-near-people-gathered-703016/)
 
 
 

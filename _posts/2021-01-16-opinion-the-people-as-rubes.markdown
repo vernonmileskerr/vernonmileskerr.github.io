@@ -14,7 +14,7 @@ tags:
 ---
 
 
-[![](https://vernonmileskerr.files.wordpress.com/2021/01/jan6riots.png?w=756)](https://vernonmileskerr.files.wordpress.com/2021/01/jan6riots.png)
+{% vmk_img 2021/01/jan6riots.png?w=756 %}
 
 
 

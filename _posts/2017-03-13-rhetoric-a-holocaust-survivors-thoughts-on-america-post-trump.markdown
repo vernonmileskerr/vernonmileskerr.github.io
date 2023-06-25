@@ -56,7 +56,7 @@ Special to The Bee
 
 Although I’m not a Donald Trump supporter, I never thought that he would bring fascism to America, and I still don’t.
 
-![ManfredWolf](https://vernonmileskerr.files.wordpress.com/2017/03/manfredwolf.jpg)
+{% vmk_img 2017/03/manfredwolf.jpg %}
 
 _Manfred Wolf_
 

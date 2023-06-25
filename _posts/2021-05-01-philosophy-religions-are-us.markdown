@@ -42,23 +42,23 @@ Sometimes, my creative-process begins as a multi-part tweet on Twitter.  Tweets 
 
 
 
-[![](https://vernonmileskerr.files.wordpress.com/2021/05/screen-shot-2021-05-01-at-6.52.51-am.png?w=1024)](https://vernonmileskerr.files.wordpress.com/2021/05/screen-shot-2021-05-01-at-6.52.51-am.png)
+{% vmk_img 2021/05/screen-shot-2021-05-01-at-6.52.51-am.png?w=1024 %}
 
 
 
-[![](https://vernonmileskerr.files.wordpress.com/2021/05/religions_2.png?w=1024)](https://vernonmileskerr.files.wordpress.com/2021/05/religions_2.png)
+{% vmk_img 2021/05/religions_2.png?w=1024 %}
 
 
 
-[![](https://vernonmileskerr.files.wordpress.com/2021/05/religion_3.png?w=1024)](https://vernonmileskerr.files.wordpress.com/2021/05/religion_3.png)
+{% vmk_img 2021/05/religion_3.png?w=1024 %}
 
 
 
-[![](https://vernonmileskerr.files.wordpress.com/2021/05/religions_4.png?w=1024)](https://vernonmileskerr.files.wordpress.com/2021/05/religions_4.png)
+{% vmk_img 2021/05/religions_4.png?w=1024 %}
 
 
 
-[![](https://vernonmileskerr.files.wordpress.com/2021/05/religion_5.png?w=1024)](https://vernonmileskerr.files.wordpress.com/2021/05/religion_5.png)
+{% vmk_img 2021/05/religion_5.png?w=1024 %}
 
 
 

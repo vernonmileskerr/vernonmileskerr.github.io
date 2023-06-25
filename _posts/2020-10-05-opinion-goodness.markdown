@@ -57,7 +57,7 @@ Curiously, Sigmund Freud's ideas and the design of the UNIX computer operating s
 
 
 
-![](https://vernonmileskerr.files.wordpress.com/2020/10/unix.png)The UNIX Operating System, from the core outward — primitive to complex
+{% vmk_img 2020/10/unix.png %}The UNIX Operating System, from the core outward — primitive to complex
 
 
 

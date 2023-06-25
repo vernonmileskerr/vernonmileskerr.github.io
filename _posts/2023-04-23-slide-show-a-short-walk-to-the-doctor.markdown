@@ -34,13 +34,13 @@ The infusion center where I get my chemotherapy sessions is only a mile from the
 
 
 
-  * ![](https://vernonmileskerr.files.wordpress.com/2023/04/shortwalktothedoctor-9.jpeg?w=768)
-  * ![](https://vernonmileskerr.files.wordpress.com/2023/04/shortwalktothedoctor-8.jpeg?w=768)
-  * ![](https://vernonmileskerr.files.wordpress.com/2023/04/shortwalktothedoctor-7.jpeg?w=768)
-  * ![](https://vernonmileskerr.files.wordpress.com/2023/04/shortwalktothedoctor-5.jpeg?w=768)
-  * ![](https://vernonmileskerr.files.wordpress.com/2023/04/shortwalktothedoctor-4.jpeg?w=768)
-  * ![](https://vernonmileskerr.files.wordpress.com/2023/04/shortwalktothedoctor-2.jpeg?w=900)
-  * ![](https://vernonmileskerr.files.wordpress.com/2023/04/shortwalktothedoctor-1.jpeg?w=900)
+  * {% vmk_img 2023/04/shortwalktothedoctor-9.jpeg?w=768 %})
+  * {% vmk_img 2023/04/shortwalktothedoctor-8.jpeg?w=768 %})
+  * {% vmk_img 2023/04/shortwalktothedoctor-7.jpeg?w=768 %})
+  * {% vmk_img 2023/04/shortwalktothedoctor-5.jpeg?w=768 %})
+  * {% vmk_img 2023/04/shortwalktothedoctor-4.jpeg?w=768 %})
+  * {% vmk_img 2023/04/shortwalktothedoctor-2.jpeg?w=900 %})
+  * {% vmk_img 2023/04/shortwalktothedoctor-1.jpeg?w=900 %})
 
 
 

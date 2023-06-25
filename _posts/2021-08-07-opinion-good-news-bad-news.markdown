@@ -20,7 +20,7 @@ tags:
 ---
 
 
-[![](https://vernonmileskerr.files.wordpress.com/2021/08/tolerance.png?w=1024)](https://vernonmileskerr.files.wordpress.com/2021/08/tolerance.png)
+{% vmk_img 2021/08/tolerance.png?w=1024 %}
 
 
 

@@ -12,7 +12,7 @@ tags:
 ---
 
 
-[![](https://vernonmileskerr.files.wordpress.com/2021/04/pexels-photo-949194.jpeg)](https://vernonmileskerr.files.wordpress.com/2021/04/pexels-photo-949194.jpeg)Photo by Manuela Adler on [Pexels.com](https://www.pexels.com/photo/body-of-water-across-forest-949194/)
+{% vmk_img 2021/04/pexels-photo-949194.jpeg %}Photo by Manuela Adler on [Pexels.com](https://www.pexels.com/photo/body-of-water-across-forest-949194/)
 
 
 

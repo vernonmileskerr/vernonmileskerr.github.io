@@ -14,7 +14,7 @@ tags:
 ---
 
 
-![](https://vernonmileskerr.files.wordpress.com/2023/06/pexels-photo-2407636.jpeg)Photo by Jeff  Guab on [Pexels.com](https://www.pexels.com/photo/aerial-photography-of-a-mountain-2407636/)
+{% vmk_img 2023/06/pexels-photo-2407636.jpeg %}Photo by Jeff  Guab on [Pexels.com](https://www.pexels.com/photo/aerial-photography-of-a-mountain-2407636/)
 
 
 

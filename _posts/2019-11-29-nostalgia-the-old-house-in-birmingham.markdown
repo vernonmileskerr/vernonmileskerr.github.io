@@ -40,7 +40,7 @@ tags:
 
 
 
-![](https://vernonmileskerr.files.wordpress.com/2019/11/screen-shot-2019-11-29-at-6.32.03-am.png)
+{% vmk_img 2019/11/screen-shot-2019-11-29-at-6.32.03-am.png %})
 
 
 

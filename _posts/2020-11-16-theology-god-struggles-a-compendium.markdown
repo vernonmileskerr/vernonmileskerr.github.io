@@ -38,7 +38,7 @@ tags:
 
 
 
-![](https://vernonmileskerr.files.wordpress.com/2020/11/screen-shot-2020-11-15-at-4.26.42-pm.png)
+{% vmk_img 2020/11/screen-shot-2020-11-15-at-4.26.42-pm.png %})
 
 
 

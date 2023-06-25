@@ -26,7 +26,7 @@ tags:
 ---
 
 
-![](https://vernonmileskerr.files.wordpress.com/2023/03/earth-soil-creep-moon-lunar-surface-87009.jpeg)Photo by Pixabay on [Pexels.com](https://www.pexels.com/photo/blue-and-white-planet-display-87009/)
+{% vmk_img 2023/03/earth-soil-creep-moon-lunar-surface-87009.jpeg %}Photo by Pixabay on [Pexels.com](https://www.pexels.com/photo/blue-and-white-planet-display-87009/)
 
 
 

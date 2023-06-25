@@ -24,7 +24,7 @@ tags:
 ---
 
 
-![](https://vernonmileskerr.files.wordpress.com/2023/03/pexels-photo-7245252.jpeg)Photo by Olga Lioncat on [Pexels.com](https://www.pexels.com/photo/st-peters-basilica-facade-against-unrecognizable-citizen-silhouettes-at-night-7245252/)
+{% vmk_img 2023/03/pexels-photo-7245252.jpeg %}Photo by Olga Lioncat on [Pexels.com](https://www.pexels.com/photo/st-peters-basilica-facade-against-unrecognizable-citizen-silhouettes-at-night-7245252/)
 
 
 

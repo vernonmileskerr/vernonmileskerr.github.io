@@ -19,7 +19,7 @@ tags:
 ---
 
 
-![](https://vernonmileskerr.files.wordpress.com/2023/03/pexels-photo-2901134.jpeg)Photo by Kendall Hoopes on [Pexels.com](https://www.pexels.com/photo/silhouette-of-people-stargazing-2901134/)
+{% vmk_img 2023/03/pexels-photo-2901134.jpeg %}Photo by Kendall Hoopes on [Pexels.com](https://www.pexels.com/photo/silhouette-of-people-stargazing-2901134/)
 
 
 

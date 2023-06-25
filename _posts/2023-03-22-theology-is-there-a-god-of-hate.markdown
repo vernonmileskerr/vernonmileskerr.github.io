@@ -13,7 +13,7 @@ tags:
 ---
 
 
-![](https://vernonmileskerr.files.wordpress.com/2023/03/pexels-photo-96928.jpeg)Photo by Francesco Ungaro on [Pexels.com](https://www.pexels.com/photo/close-up-photography-of-beige-concrete-decor-96928/)
+{% vmk_img 2023/03/pexels-photo-96928.jpeg %}Photo by Francesco Ungaro on [Pexels.com](https://www.pexels.com/photo/close-up-photography-of-beige-concrete-decor-96928/)
 
 
 

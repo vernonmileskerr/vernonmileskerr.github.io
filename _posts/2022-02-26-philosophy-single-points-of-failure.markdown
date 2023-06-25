@@ -104,5 +104,5 @@ Be thinking of how we can restructure our politics and economy to remove single 
 
 
 
-![](https://vernonmileskerr.files.wordpress.com/2022/02/wtc2001.png?w=1024)COLLAPSE
+{% vmk_img 2022/02/wtc2001.png?w=1024 %})COLLAPSE
 

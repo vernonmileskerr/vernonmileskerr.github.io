@@ -53,7 +53,7 @@ ________________________________________________________
 
 
 
-![](https://vernonmileskerr.files.wordpress.com/2023/01/pexels-photo-1178683.jpeg)Photo by Mike on [Pexels.com](https://www.pexels.com/photo/hourglass-on-brown-wooden-frame-1178683/)
+{% vmk_img 2023/01/pexels-photo-1178683.jpeg %}Photo by Mike on [Pexels.com](https://www.pexels.com/photo/hourglass-on-brown-wooden-frame-1178683/)
 
 
 

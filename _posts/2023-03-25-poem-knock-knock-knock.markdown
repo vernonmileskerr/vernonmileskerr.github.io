@@ -18,7 +18,7 @@ tags:
 ---
 
 
-![](https://vernonmileskerr.files.wordpress.com/2023/03/pexels-photo-209235.jpeg)Photo by Pixabay on [Pexels.com](https://www.pexels.com/photo/black-claw-hammer-on-brown-wooden-plank-209235/)
+{% vmk_img 2023/03/pexels-photo-209235.jpeg %}Photo by Pixabay on [Pexels.com](https://www.pexels.com/photo/black-claw-hammer-on-brown-wooden-plank-209235/)
 
 
 

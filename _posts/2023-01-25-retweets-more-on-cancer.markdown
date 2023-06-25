@@ -14,7 +14,7 @@ tags:
 ---
 
 
-![](https://vernonmileskerr.files.wordpress.com/2023/01/screenshot-2023-01-25-at-7.55.26-am.png?w=900)Varian Radiation-Therapy Unit
+{% vmk_img 2023/01/screenshot-2023-01-25-at-7.55.26-am.png?w=900 %})Varian Radiation-Therapy Unit
 
 
 

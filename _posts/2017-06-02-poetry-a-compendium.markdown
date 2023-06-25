@@ -561,7 +561,7 @@ And against the Yankees, them damn’d Yankees.
 # ST. LOUIS
 
 
-![lacledeslandingstlouis](https://vernonmileskerr.files.wordpress.com/2016/08/lacledeslandingstlouis.jpg?w=200&h=300)
+{% vmk_img 2016/08/lacledeslandingstlouis.jpg?w=200&h=300 %}
 
 What on Earth can compare to the Arch?
 
@@ -687,7 +687,7 @@ And a hidden smile.
 # TOKYO
 
 
-![japan2013_day5_11](https://vernonmileskerr.files.wordpress.com/2016/08/japan2013_day5_11.jpg?w=900)She is more than huge, she is blatantly contradictory.
+{% vmk_img 2016/08/japan2013_day5_11.jpg?w=900 %}She is more than huge, she is blatantly contradictory.
 
 She’s American-ish, but Japanesey;
 
@@ -713,7 +713,7 @@ There is no downtown but a dozen downtowns
 
 Strung like beads around the  circling Yamanote Line.
 
-![japan2013_day5_06](https://vernonmileskerr.files.wordpress.com/2016/08/japan2013_day5_06.jpg?w=900)We jump on and off like locals, sampling each one.
+{% vmk_img 2016/08/japan2013_day5_06.jpg?w=900 %}We jump on and off like locals, sampling each one.
 
 Ikebukuro, Ueno,  Okachimachi, Akihabara .
 
@@ -721,7 +721,7 @@ Ikebukuro, Ueno,  Okachimachi, Akihabara .
 
 Later the bullet train pulls into Shin-Yokohama,
 
-![bullettrain_kyotoscenes_2013_022-1](https://vernonmileskerr.files.wordpress.com/2016/08/bullettrain_kyotoscenes_2013_022-1.jpg?w=900)Long, low and unapologetically futuristic.
+{% vmk_img 2016/08/bullettrain_kyotoscenes_2013_022-1.jpg?w=900 %}Long, low and unapologetically futuristic.
 
 It’s the 6:00 o’clock bound for Kyoto.
 

@@ -20,7 +20,7 @@ tags:
 ---
 
 
-![](https://vernonmileskerr.files.wordpress.com/2023/05/pexels-photo-6841459.jpeg)Photo by RDNE Stock project on [Pexels.com](https://www.pexels.com/photo/people-weraing-black-and-standing-over-a-grave-6841459/)
+{% vmk_img 2023/05/pexels-photo-6841459.jpeg %}Photo by RDNE Stock project on [Pexels.com](https://www.pexels.com/photo/people-weraing-black-and-standing-over-a-grave-6841459/)
 
 
 

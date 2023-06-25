@@ -15,7 +15,7 @@ tags:
 ---
 
 
-![](https://vernonmileskerr.files.wordpress.com/2023/05/pexels-photo-920036-1.jpeg)Photo by Nathan Cowley on [Pexels.com](https://www.pexels.com/photo/shallow-focus-photography-of-man-wearing-red-polo-shirt-920036/)
+{% vmk_img 2023/05/pexels-photo-920036-1.jpeg %}Photo by Nathan Cowley on [Pexels.com](https://www.pexels.com/photo/shallow-focus-photography-of-man-wearing-red-polo-shirt-920036/)
 
 
 

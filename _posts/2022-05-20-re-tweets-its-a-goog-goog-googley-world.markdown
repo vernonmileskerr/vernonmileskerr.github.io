@@ -98,7 +98,7 @@ Cheers! VMK
 
 
 
-![](https://vernonmileskerr.files.wordpress.com/2022/05/screen-shot-2022-05-20-at-6.24.15-am.png?w=1024)Edinburgh, Scotland  Google Earth Street View
+{% vmk_img 2022/05/screen-shot-2022-05-20-at-6.24.15-am.png?w=1024 %})Edinburgh, Scotland  Google Earth Street View
 
 
 
