@@ -46,12 +46,12 @@ module Jekyll
       # If base url includes github.io, then we are on GitHub Pages and should use the raw
       # url.
       if Jekyll.env == "production"
+        # remove leading slash from filename if it exists
+        filename = filename[1..] if filename.start_with? '/'
         img_src = "#{GITHUB_IMG_ROOT}/#{filename}"
       else
         img_src = "#{context.registers[:site].config['baseurl']}/assets/vmk_img/#{filename}"
       end
-      #remove any double slashes
-      img_src.gsub!(%r{/{2,}}, '/')
       # return the img tag
       "<img src=\"#{img_src}\"/>"
     end
