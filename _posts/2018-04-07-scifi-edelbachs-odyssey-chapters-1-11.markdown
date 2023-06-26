@@ -62,4 +62,4 @@ Chapter 11 will be the final "free preview" posting of Edelbach's Odyssey.  I n
 
 PayPal info:   shbang.publishing@gmail.com
 
-[Edelbach's Odyssey - forPDF Chap 1-11](https://vernonmileskerr.files.wordpress.com/2018/04/edelbachs-odyssey-forpdf-chap-1-11.pdf)
+[Edelbach's Odyssey - forPDF Chap 1-11]({% vmk_filepath 2018/04/edelbachs-odyssey-forpdf-chap-1-11.pdf %})

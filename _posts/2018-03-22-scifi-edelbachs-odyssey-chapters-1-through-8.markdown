@@ -39,4 +39,4 @@ Read this work-in-progress, as it is being created, for FREE.
 
 Chapters 1 through 8 available here:
 
-[Edelbach's Odyssey - PDF Chapters 1 - 8](https://vernonmileskerr.files.wordpress.com/2018/03/edelbachs-odyssey-pdf-chapters-1-8.pdf)
+[Edelbach's Odyssey - PDF Chapters 1 - 8]({% vmk_filepath 2018/03/edelbachs-odyssey-pdf-chapters-1-8.pdf %})

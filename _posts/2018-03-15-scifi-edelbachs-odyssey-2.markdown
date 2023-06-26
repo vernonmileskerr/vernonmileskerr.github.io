@@ -39,4 +39,4 @@ tags:
 
 Read the latest edits of this work-in-progress FREE  (Chapters 1 through 6):
 
-[Edelbach's Odyssey - PDF Version](https://vernonmileskerr.files.wordpress.com/2018/03/edelbachs-odyssey-pdf-version2.pdf)
+[Edelbach's Odyssey - PDF Version]({% vmk_filepath 2018/03/edelbachs-odyssey-pdf-version2.pdf %})

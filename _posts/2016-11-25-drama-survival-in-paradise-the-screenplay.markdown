@@ -28,6 +28,6 @@ Initial feedback from knowledgeable friends is that the script is not exciting e
 
 Please read my screenplay and judge for yourself.  Comments hugely appreciated.
 
-[SURVIVALINPARADISE by Vernon Miles Kerr](https://vernonmileskerr.files.wordpress.com/2018/01/survivalinparadise-by-vernon-miles-kerr.pdf)
+[SURVIVALINPARADISE by Vernon Miles Kerr]({% vmk_filepath 2018/01/survivalinparadise-by-vernon-miles-kerr.pdf %})
 
 

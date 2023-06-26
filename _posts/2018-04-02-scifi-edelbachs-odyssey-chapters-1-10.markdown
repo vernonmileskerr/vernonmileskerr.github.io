@@ -54,4 +54,4 @@ After the 20-light-year leap, the captain once more called for “stand-down.”
 
 “More than troubling…ominous,” observed Steppingstone, “and the speed at which they’ve improved upon the limited technology we gave them, combined with their dishonesty towards us, makes the whole situation a lot worse than we thought.”
 
-[Edelbach's Odyssey - for PDF Chap 1-10](https://vernonmileskerr.files.wordpress.com/2018/04/edelbachs-odyssey-for-pdf-chap-1-10.pdf)
+[Edelbach's Odyssey - for PDF Chap 1-10]({% vmk_filepath 2018/04/edelbachs-odyssey-for-pdf-chap-1-10.pdf %})

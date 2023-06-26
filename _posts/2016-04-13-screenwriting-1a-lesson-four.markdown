@@ -23,7 +23,7 @@ http://www.survivalinparadise.com
 
 For your entertainment and--hopefully--learning.  I've included a link to the PDF copy of my script, below.  At present we have begun networking with friends who have industry connections and we also have entered two screenplay competitions.  I'll keep you posted when I receive responses from any of these marketing efforts.  The script:
 
-[SURVIVALINPARADISE_by_Vernon_Miles_Kerr](https://vernonmileskerr.files.wordpress.com/2016/04/survivalinparadise_by_vernon_miles_kerr.pdf)
+[SURVIVALINPARADISE_by_Vernon_Miles_Kerr]({% vmk_filepath 2016/04/survivalinparadise_by_vernon_miles_kerr.pdf %})
 
 
 ## **Screenplay Narrative**

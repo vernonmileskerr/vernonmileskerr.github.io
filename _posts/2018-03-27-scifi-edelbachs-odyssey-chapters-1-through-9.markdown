@@ -52,4 +52,4 @@ tags:
 
 In this  chapter Edelbach is shown a planet seriously in disorder, which has rejected the Husbandry's offer of  technological knowledge and have pathetically taken a war-like stance against the altruistic motives of the "Benefactors."
 
-[Edelbach's Odyssey - for PDF Chap 1 - 9](https://vernonmileskerr.files.wordpress.com/2018/03/edelbachs-odyssey-for-pdf-chap-1-9.pdf)
+[Edelbach's Odyssey - for PDF Chap 1 - 9]({% vmk_filepath 2018/03/edelbachs-odyssey-for-pdf-chap-1-9.pdf %})

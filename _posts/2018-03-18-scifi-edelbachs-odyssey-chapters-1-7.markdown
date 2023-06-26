@@ -35,4 +35,4 @@ tags:
 
 
 
-[Edelbach's Odyssey - PDF Chapters 1 - 7](https://vernonmileskerr.files.wordpress.com/2018/03/edelbachs-odyssey-pdf-chapters-1-7.pdf)
+[Edelbach's Odyssey - PDF Chapters 1 - 7]({% vmk_filepath 2018/03/edelbachs-odyssey-pdf-chapters-1-7.pdf %})
