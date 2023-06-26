@@ -14,10 +14,15 @@
 #
 # Examples:
 # {% vmk_img vmk.png %}
-# {% vmk_img pirate.mov %}
 #
 # Output:
-# <img src="https://raw.githubusercontent.com/vernonmileskerr/vernonmileskerr.github.io/main/assets/img/vmk.png"/>
+# <img src="https://raw.githubusercontent.com/vernonmileskerr/vernonmileskerr.github.io/main/_static/vmk.png"/>
+
+# Examples:
+# {% vmk_filepath vmk.pdf %}
+#
+# Output:
+# https://raw.githubusercontent.com/vernonmileskerr/vernonmileskerr.github.io/main/_static/vmk.pdf
 # Jekyll plugin.
 module Jekyll
 
@@ -25,12 +30,14 @@ module Jekyll
   class VmkImageTag < Liquid::Tag
     GITHUB_IMG_ROOT =
       "https://raw.githubusercontent.com/vernonmileskerr/" +
-      "vernonmileskerr.github.io/main/_vmk_img/"
+      "vernonmileskerr.github.io/main/_static/"
     @markup = nil
+    @tag = nil
 
     def initialize(tag_name, markup, tokens)
       # strip leading and trailing spaces
       @markup = markup.strip
+      @tag = tag_name
       super
     end
 
@@ -48,12 +55,16 @@ module Jekyll
       if Jekyll.env == "production"
         # remove leading slash from filename if it exists
         filename = filename[1..] if filename.start_with? '/'
-        img_src = "#{GITHUB_IMG_ROOT}/#{filename}"
+        file_src = "#{GITHUB_IMG_ROOT}/#{filename}"
       else
-        img_src = "#{context.registers[:site].config['baseurl']}/assets/vmk_img/#{filename}"
+        file_src = "#{context.registers[:site].config['baseurl']}/assets/_static/#{filename}"
       end
       # return the img tag
-      "<img src=\"#{img_src}\"/>"
+      if @tag == 'vmk_img'
+        return "<img src=\"#{file_src}\"/>"
+      else
+        return file_src
+      end
     end
 
     private
@@ -78,10 +89,11 @@ module Jekyll
       if Jekyll.env == "production"
         return
       end
-      system('mkdir -p _site/assets/vmk_img');
-      system('rsync --archive --delete _vmk_img/ _site/assets/vmk_img/');
+      system('mkdir -p _site/assets/_static');
+      system('rsync --archive --delete _static/ _site/assets/_static/');
     end
   end
 end
 
 Liquid::Template.register_tag('vmk_img', Jekyll::VmkImageTag)
+Liquid::Template.register_tag('vmk_filepath', Jekyll::VmkImageTag)

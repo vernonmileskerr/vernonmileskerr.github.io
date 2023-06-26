@@ -192,7 +192,7 @@ exclude:
   - node_modules
   - package*.json
 
-keep_files: ["assets/vmk_img"]
+keep_files: ["assets/_static"] #see vmk-static.rb
 
 jekyll-archives:
   enabled: [categories, tags]
