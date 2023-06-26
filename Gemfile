@@ -27,4 +27,5 @@ if RUBY_PLATFORM =~ /linux-musl/
   gem "jekyll-sass-converter", "~> 2.0"
 end
 
-gem "jekyll-include-cache", "~> 0.2.1"
+gem "jekyll-include-cache", "~> 0.2.1", group: [:jekyll_plugins]
+gem 'jekyll-compose', group: [:jekyll_plugins]
