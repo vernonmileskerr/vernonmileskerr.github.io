@@ -17,8 +17,12 @@ Other than one year at University of the Pacific's McGeorge School of Law, I am 
 
 While at SF State I was taught by professors like S.I. Hayakawa and Manfred Wolf. Hayakawa was the then reputed "World's Foremost Semanticist" who, gained national attention later when, as the University's President, TV news showed him  wearing his signature tam-o-shanter, storming out of his office and yanking the microphone out of the hands of the driver of an unauthorized speaker truck. He later parlayed this notoriety into being elected Junior U.S. Senator from California. https://en.wikipedia.org/wiki/S._I._Hayakawa
 
-Manfred Wolf, now a professor at the Fromm Institute of Lifelong Learning at University of San Francisco, was my instructor in Critical Writing at S.F. State and a true mentor. In recent years, He has published several books, the most recent of which is an autobiographical memoir of his early years.  Dr. Wolf and I collaborated on a film adaptation of that book which is now in pre-production in Holland.  The draft is on my site at
+Manfred Wolf, now a professor at the Fromm Institute of Lifelong Learning at University of San
+Francisco, was my instructor in Critical Writing at S.F. State and a true mentor. In recent years,
+He has published several books, the most recent of which is an autobiographical memoir of his early
+years.  Dr. Wolf and I collaborated on a film adaptation of that book which is now in pre-production
+in Holland.
+The draft is on my site [here]({% vmk_filepath 2018/01/survivalinparadise-by-vernon-miles-kerr.pdf %})
 
-https://vernonmileskerr.files.wordpress.com/2018/01/survivalinparadise-by-vernon-miles-kerr.pdf
 
 Today Manfred Wolf is still a close friend, occasional collaborator, and still a mentor.  See http://www.survivalinparadise.com
