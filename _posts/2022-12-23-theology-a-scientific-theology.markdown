@@ -124,6 +124,16 @@ In conclusion, I'm not out to destroy the happiness of those who still adhere to
 
 
 There should be no guilt. There should be no "fear of missing out." The love of the Universe's God is freely available for the asking. No organized religion is necessary. Meditate on that.
+***In Conclusion
+
+I hate to be saying this, because of all the lovely people I know who are sincere, practicing Christians, (even some in my own extended-family) But, here's what the Spirit is telling me this morning:
+
+Humans don't need a "Savior," in the sense that they're being saved from eternal punishment, or even "eternal death."
+ Eternal Life is freely given to every human, without conditions. There is no place of eternal punishment. Even that human-tainted, curated, pack of old scrolls and codices we call "The Bible" DOES NOT describe such a "place." Scriptural references to "Hell," are vague, sparse and totally inconclusive.
+
+If you believe what I am saying, what are you going to do about it?
+
+Will you go all "Pinocchio's Island," and start living a life of self-indulgence? Or will you try to show your appreciation, by limiting your short time on Earth to activities which mutually benefit you AND your human family?
 
 
 
