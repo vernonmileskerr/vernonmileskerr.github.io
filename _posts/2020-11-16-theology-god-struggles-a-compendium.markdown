@@ -4,7 +4,6 @@ author: clearkerr
 comments: true
 date: 2020-11-16 00:36:36+00:00
 layout: post
-link: http://vernonmileskerr.com/2020/11/15/theology-god-struggles-a-compendium/
 slug: theology-god-struggles-a-compendium
 title: Theology  |  God-struggles, a Compendium
 wordpress_id: 4253
