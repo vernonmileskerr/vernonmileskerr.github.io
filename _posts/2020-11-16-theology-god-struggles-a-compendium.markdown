@@ -1,5 +1,5 @@
 ---
-chirpy: sticky
+pin: true
 author: clearkerr
 comments: true
 date: 2020-11-16 00:36:36+00:00
@@ -39,7 +39,7 @@ tags:
 
 
 
-{% vmk_img 2020/11/screen-shot-2020-11-15-at-4.26.42-pm.png %})
+{% vmk_img 2020/11/screen-shot-2020-11-15-at-4.26.42-pm.png %}
 
 
 
