@@ -52,13 +52,11 @@ Just now — no sooner than I had thought-up this title, "God-struggles," an ima
 
 
 
-<blockquote>
 
 > 
 > “_Thy name shall be called no more Jacob, but Israel: for as a prince hast thou power with God and with men, and hast prevailed_.” (Genesis 32:28)
-> 
-> 
-https://www.haaretz.com/.premium-why-is-israel-called-israel-1.5353207</blockquote>
+>  
+> https://www.haaretz.com/.premium-why-is-israel-called-israel-1.5353207
 
 
 
@@ -90,13 +88,13 @@ I was propelled into writing this article by a young lady on Twitter, "kelly" wh
 
 
 
-<blockquote>
+
 
 > 
 > "religion doesn't guarantee a true connection to god; if anything, it often places a barrier between a direct connection to god and the seeker.  religion is a social structure within [which] one may or may not find connection to a higher source."
 > 
 > 
-</blockquote>
+
 
 
 
@@ -112,13 +110,11 @@ Later in the thread, I replied:
 
 
 
-<blockquote>
 
 > 
 > "In the meantime the world wold be better of without 'religiosity' i.e. large traditional 'religious' organizations which _interpose_ themsleves between believers and whatever higher power they tout.  They are a toll-gate through which money or acts of obeisance are the ticket for passage.
 > 
 > 
-</blockquote>
 
 
 
