@@ -49,6 +49,10 @@ jobs:
         run: bundle exec jekyll b -d "_site${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: "production"
+      
+      - name: Debug assets
+        run: |
+          find _site/assets -type d && find _site/assets/css
 
       - name: Test site
         run: |
