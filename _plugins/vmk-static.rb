@@ -25,6 +25,11 @@
 # https://raw.githubusercontent.com/vernonmileskerr/vernonmileskerr.github.io/main/_static/vmk.pdf
 # Jekyll plugin.
 module Jekyll
+  # If LOCAL_IN_DEV is true it will do an expensive rsync to set up the local copy of the assets
+  # directory. It's not recommended however. Instead just pre-submit images in _static on the
+  # main branch before referencing them. The images will be hotlinked to the github main branch
+  # as they are in production.
+  LOCAL_IN_DEV = false
 
   # Returns the path to the specified asset.
   class VmkImageTag < Liquid::Tag
@@ -52,7 +57,7 @@ module Jekyll
 
       # If base url includes github.io, then we are on GitHub Pages and should use the raw
       # url.
-      if Jekyll.env == "production"
+      if Jekyll.env == "production" or LOCAL_IN_DEV == false
         # remove leading slash from filename if it exists
         filename = filename[1..] if filename.start_with? '/'
         file_src = "#{GITHUB_IMG_ROOT}/#{filename}"
@@ -86,7 +91,11 @@ module Jekyll
 
   class RsyncImageGenerator < Generator
     def generate(site)
-      if Jekyll.env == "production"
+      if Jekyll.env == "production" or LOCAL_IN_DEV == false
+        if LOCAL_IN_DEV == false
+          puts "Skipping rsync of local images."
+          puts "Any changes to images should be submitted first or they will not show up."
+        end
         return
       end
       system('mkdir -p _site/assets/_static');
